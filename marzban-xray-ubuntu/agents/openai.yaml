@@ -1,0 +1,4 @@
+interface:
+  display_name: "Marzban · Xray на Ubuntu"
+  short_description: "Развёртывание Marzban, REALITY, SSL и SSH на Ubuntu"
+  default_prompt: "Используй $marzban-xray-ubuntu для развёртывания Marzban с Xray REALITY на моём Ubuntu VPS."
