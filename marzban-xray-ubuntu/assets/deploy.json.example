@@ -1,0 +1,10 @@
+{
+  "domain": null,
+  "email": null,
+  "admin_user": null,
+  "ssh_public_key_file": "admin.pub",
+  "ssh_port": null,
+  "panel_port": null,
+  "reality_target": null,
+  "image": "gozargah/marzban:v0.8.4"
+}
